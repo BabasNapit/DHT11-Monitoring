@@ -1,0 +1,114 @@
+.body {
+	background-color: rgb(255, 255, 255);
+}
+
+.h1 {
+	color: #3f5e3f;
+}
+
+.h2 {
+	color: #385238;
+}
+
+.container {
+	text-align: center;
+}
+
+.kotak {
+	width: 500px;
+	height: 500px;
+
+	margin-top: 40px;
+	margin-bottom: 30px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	padding-left: 20px;
+	padding-right: 20px;
+
+	border: 5px solid #3c5d39;
+	border-radius: 20px;
+	background-color: rgb(173, 207, 176);
+
+	display: inline-block;
+}
+
+.nilai {
+	font-size: 150pt;
+	margin-bottom: 50px;
+}
+
+.date {
+	font-size: 150pt;
+	margin-bottom: 50px;
+}
+
+.hantu {
+	font-style: oblique;
+	font-weight: bold;
+}
+
+.hantu2 {
+	font-style: oblique;
+	font-weight: bold;
+}
+
+.image {
+	width: 100px;
+	height: 100px;
+	margin-left: 30px;
+}
+
+.Waktu {
+	width: 500px;
+	height: 100px;
+
+	margin-top: 40px;
+	margin-bottom: 30px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	padding-left: 20px;
+	padding-right: 20px;
+
+	border: 5px solid #3c5d39;
+	border-radius: 20px;
+	background-color: rgb(173, 207, 176);
+
+	display: inline-block;
+}
+
+.tanggal {
+	width: 500px;
+	height: 100px;
+
+	margin-top: 40px;
+	margin-bottom: 30px;
+
+	margin-left: 20px;
+	margin-right: 20px;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	padding-left: 20px;
+	padding-right: 20px;
+
+	border: 5px solid #3c5d39;
+	border-radius: 20px;
+	background-color: rgb(173, 207, 176);
+
+	display: inline-block;
+}
+
+.bungkus {
+	margin-top: 100px;
+}
